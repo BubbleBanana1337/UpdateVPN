@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "3.1.8",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.1.8/app-release.apk",
-  "changelog": "Что нового:\n- Добавлена функция Автовыбор для более быстрого подключения и стабильности"
+  "versionCode": 30,
+  "versionName": "3.1.9",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.1.9/app-release.apk",
+  "changelog": "Что нового:\n- Добавил новую функцию двойной впн новой кнопкой в приложении"
 }
