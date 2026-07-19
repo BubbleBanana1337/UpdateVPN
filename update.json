@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "3.2.6",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.2.6/app-release.apk",
-  "changelog": "Что нового:\n- Добавлено больше функций в настройках так же обновлено ядро xray"
+  "versionCode": 41,
+  "versionName": "3.3.0",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.3.0/app-release.apk",
+  "changelog": "Что нового:\n- Обновлена логика подключения к серверам"
 }
