@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "3.2.1",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.2.1/app-release.apk",
-  "changelog": "Что нового:\n- Добавлена функция сканера QR кодов подписок"
+  "versionCode": 37,
+  "versionName": "3.2.6",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.2.6/app-release.apk",
+  "changelog": "Что нового:\n- Добавлено больше функций в настройках так же обновлено ядро xray"
 }
