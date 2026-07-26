@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "3.3.3",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.3.3/app-release.apk",
+  "versionCode": 69,
+  "versionName": "3.5.8",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.5.8/app-release.apk",
   "changelog": "Что нового:\n- Обновлена логика подключения к серверам"
 }
