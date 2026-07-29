@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "3.5.9",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.5.9/app-release.apk",
-  "changelog": "Что нового:\n- Доступ к устройствам в локальной сети (Wi-Fi) Исправление функции «Свои сайты без ВПН»"
+  "versionCode": 73,
+  "versionName": "3.6.2",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.6.2/app-release.apk",
+  "changelog": "Исправлен сбой подключения и циклический перебор серверов на Android 12 и ниже, замедлена анимация вращения планеты и добавлен новый iOS-экран входа с кнопками покупки и поддержки в Telegram"
 }
