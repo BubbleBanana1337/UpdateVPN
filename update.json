@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "3.6.2",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/v.3.6.2/app-release.apk",
-  "changelog": "Исправлен сбой подключения и циклический перебор серверов на Android 12 и ниже, замедлена анимация вращения планеты и добавлен новый iOS-экран входа с кнопками покупки и поддержки в Telegram"
+  "versionCode": 81,
+  "versionName": "3.6.3",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.6.3/app-release.apk",
+  "changelog": "Поддержка VMess, подписок Clash/Sing-box, DoH AdGuard, исключение LAN, QR-коды и тема Material You."
 }
