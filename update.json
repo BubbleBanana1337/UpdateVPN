@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "3.6.4",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.6.4/app-release.apk",
-  "changelog": "Поддержка VMess, подписок Clash/Sing-box, DoH AdGuard, исключение LAN, QR-коды и тема Material You.",
-  "sha256": "3f7e69f278e6b0f4cbd869ad6abba54cb9a0eb0621b697349865a30f0a587a54"
+  "versionCode": 83,
+  "versionName": "3.6.5",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.6.5/app-release.apk",
+  "changelog": "Исправление встроенного обновления, адаптация меню и улучшение стабильности.",
+  "sha256": "1e7e5937be1af98ec614d733314e147c2eec8018505de71213a44ff3746ee7a9"
 }
