@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "3.6.5",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.6.5/app-release.apk",
-  "changelog": "Исправление встроенного обновления, адаптация меню и улучшение стабильности.",
-  "sha256": "1e7e5937be1af98ec614d733314e147c2eec8018505de71213a44ff3746ee7a9"
+  "versionCode": 84,
+  "versionName": "3.6.6",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.6.6/app-release.apk",
+  "changelog": "• Индикация пинга в кружках (зеленый/желтый/красный)\n• Улучшена безопасность и маскирование ссылок в логах\n• Исправлено исключение локальной сети (LAN)\n• Усилена защита Kill Switch",
+  "sha256": "45cf1161dafaad531d3f6ab979ee35bb8d6975a5b9eb3c8aae0f2e85fe97c53c"
 }
