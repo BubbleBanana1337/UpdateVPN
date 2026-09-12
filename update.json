@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "3.6.6",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.6.6/app-release.apk",
-  "changelog": "• Индикация пинга в кружках (зеленый/желтый/красный)\n• Улучшена безопасность и маскирование ссылок в логах\n• Исправлено исключение локальной сети (LAN)\n• Усилена защита Kill Switch",
-  "sha256": "45cf1161dafaad531d3f6ab979ee35bb8d6975a5b9eb3c8aae0f2e85fe97c53c"
+  "versionCode": 85,
+  "versionName": "3.6.7",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.6.7/app-release.apk",
+  "changelog": "• Еженедельное автоматическое обновление правил маршрутизации GeoIP и GeoSite\n• Обновление баз Geo-правил при ручном нажатии на кнопку обновления подписки\n• Автоповтор загрузки Geo-правил и подписок через VPN при блокировках провайдером\n• Раздельная DNS-маршрутизация: прямой быстрый DNS для RU-доменов и VPN DNS для остальных\n• Повышена общая безопасность и надёжность соединения",
+  "sha256": "2c9750d5316ae7449478ed84be5216ca9fdf2ea2f35e33ae5491be8f9a6c6371"
 }
