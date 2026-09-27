@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "3.7.2",
-  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.7.2/app-release.apk",
-  "sha256": "e9a755c7a8eaca87b9552fdd7c7ecc88692802ea0177fc47d71939bdd14cb686",
-  "changelog": "Исправлен обход DPI и работа Private DNS, устранена блокировка IPv6, улучшена совместимость со шторкой и виджетом на Android 12–15, закрыты уязвимости парсеров Clash/Trojan, устранены вылеты камеры и глубоко оптимизирована плавность интерфейса и раздельного туннелирования."
+  "versionCode": 91,
+  "versionName": "3.7.3",
+  "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.7.3/app-release.apk",
+  "sha256": "f876ba1f16656f6170f28fcc7c29a870e2b0a355ed5fb6553fbd896169e4a0bb",
+  "changelog": "Исправлена проверка цифровой подписи при обновлении приложения, устранены ошибки валидации на Android 9-14, улучшена стабильность автообновления."
 }
