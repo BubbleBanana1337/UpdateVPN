@@ -2,6 +2,6 @@
   "versionCode": 91,
   "versionName": "3.7.3",
   "apkUrl": "https://github.com/BubbleBanana1337/UpdateVPN/releases/download/3.7.3/app-release.apk",
-  "sha256": "f876ba1f16656f6170f28fcc7c29a870e2b0a355ed5fb6553fbd896169e4a0bb",
+  "sha256": "39ff42c15ffd0bdefd5c1f6e2e1d89a931f19d490e6bc1aef5bf62aeea6ad252",
   "changelog": "Исправлена проверка цифровой подписи при обновлении приложения, устранены ошибки валидации на Android 9-14, улучшена стабильность автообновления."
 }
